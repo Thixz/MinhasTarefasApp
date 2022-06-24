@@ -5,7 +5,7 @@ import {
 } from '@react-navigation/native-stack';
 
 
-import LoginRegisterPage from './src/Pages/LoginPage';
+import LoginRegisterPage from './src/Pages/LoginPage/LoginPage';
 
 const Stack = createNativeStackNavigator();
 
